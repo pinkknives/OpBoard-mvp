@@ -1,0 +1,1 @@
+{ "name": "schackdebatt-mvp", "version": "0.1.0", "scripts": { "dev": "next dev" } }
